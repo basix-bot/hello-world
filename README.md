@@ -1,3 +1,3 @@
 # hello-world
 this repository is for practicing the GitHub flow
-new creator basix- bot is first hello-world repository 
+I am the new creator basix- bot And this is My first hello-world repository 
